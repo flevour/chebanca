@@ -1,0 +1,4 @@
+honcho
+click
+terminaltables
+requests
